@@ -27,4 +27,4 @@ class Procedures extends Component {
   }
 }
 
-module.exports = Procedures;
+export default Procedures;
